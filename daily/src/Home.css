@@ -1,0 +1,15 @@
+.home-container {
+    padding: 20px; /* 상단 여백 */
+    background-color: #c76f6f; /* 배경색 */
+  }
+  
+  .home-title {
+    font-size: 2.5rem; /* 제목 크기 */
+    margin: 0; /* 기본 마진 제거 */
+  }
+  
+  .home-message {
+    font-size: 1.2rem; /* 메시지 크기 */
+    margin-top: 10px; /* 메시지와 제목 간격 */
+  }
+  
